@@ -22,11 +22,7 @@ section h1 {
 section h2 {
     background-color: #009999;
     font-size: 2em;
-    color: #000000;
-    border-top-left-radius: 30px;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;
-    border-bottom-left-radius: 30px;
+  
 }
 section h3 {
     background-color: #009999;
