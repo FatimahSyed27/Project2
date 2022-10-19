@@ -83,7 +83,6 @@ footer{
   color: #00999;
 }
 
-
 * {
   box-sizing: border-box;
 }
@@ -118,10 +117,7 @@ section h3 {
     background-color: #009999;
     color: #000000;
 }
-/* House styles below */
-@font-face {
-    font-family:'Arial, Helvetica, sans-serif';
-}
+
 *{
     box-sizing: border-box;
 }
