@@ -1,0 +1,127 @@
+body {
+		background-color: #99ffff;
+		font-family:'Arial, Helvetica, sans-serif';
+		font-weight: 300;
+    font-size: 1em;
+		margin: 0;
+}
+
+header{
+  width: 100%;
+}
+header nav ul{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: max-content;
+}
+header nav ul li{
+  margin-bottom: 5px;
+  color: #009999;
+  width: max-content;
+}
+header nav ul li:nth-child(1){
+  float: left;
+}
+header nav ul li:nth-child(2){
+  float: right;
+}
+header nav ul li:nth-child(3){
+  float: right;
+}
+
+
+h1{
+  font-size: 3em;
+  line-height:2.5em;
+  font-weight: bold;
+}
+
+h2, h3{
+  font-size: 1.266em;
+  line-height:1.3em;
+  font-weight: bold;
+}
+
+li{
+  padding-left: 10px;
+  font-weight: bold;
+}
+
+p ~ p{
+  padding-top: 5px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    font-weight: bold;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+nav{
+  height: 30px;
+  margin-top: 10px;
+}
+
+section{
+  padding: 10px 0;
+}
+
+section section{
+  padding: 0 10px;
+}
+
+main{
+  padding: 0 10px;
+}
+
+footer{
+  display: block;
+  color: #00999;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+ol, ul{
+  list-style: none;
+  
+}
+a{
+    color: inherit;
+}
+section a {
+    color: #009999;
+}
+section p {
+    float: none!important;
+}
+section h1 {
+   text-align: center;
+    background-color: #009999;
+    color: #000000;
+}
+section h2 {
+    background-color: #009999;
+    font-size: 2em;
+    color: #000000;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+section h3 {
+    background-color: #009999;
+    color: #000000;
+}
+/* House styles below */
+@font-face {
+    font-family:'Arial, Helvetica, sans-serif';
+}
+*{
+    box-sizing: border-box;
+}
