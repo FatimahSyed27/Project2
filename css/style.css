@@ -29,7 +29,7 @@ div h3 {
 
 
 body {
-    background-color: #ccffff;
+    background: linear-gradient(to bottom, #0099ff 0%, #99ffcc 100%);
     font-family:'Roboto', sans-serif;
     font-weight: 300;
     font-size: 1em;
@@ -48,6 +48,7 @@ header nav ul{
 header nav ul li{
   margin-bottom: 5px;
   color: #000000;
+  font-weight: bold;
   width: max-content;
 }
 header nav ul li:nth-child(1){
