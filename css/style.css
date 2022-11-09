@@ -50,6 +50,7 @@ header nav ul li{
   color: #000000;
   font-weight: bold;
   width: max-content;
+  text-decoration: none;
 }
 header nav ul li:nth-child(1){
   float: left;
