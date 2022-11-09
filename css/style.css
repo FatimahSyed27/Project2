@@ -29,7 +29,7 @@ body {
     font-family:'Roboto', sans-serif;
     font-weight: 300;
     font-size: 1em;
-    margin: auto;
+    margin-right: 10%;
 }
 
 header{
@@ -63,14 +63,14 @@ h1{
   font-size: 3em;
   line-height:2.5em;
   font-weight: bold;
-  margin: auto;
+  margin-right: 10%;
 }
 
 h2, h3{
   font-size: 2em;
   line-height:1.5em;
   font-weight: bold;
-  margin: auto;
+  margin-right: 10%;
 }
 
 li{
