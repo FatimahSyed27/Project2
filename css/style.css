@@ -45,9 +45,8 @@ header nav ul{
 header nav ul li{
   margin-bottom: 5px;
   color: #000000;
-  font-weight: bold;
-  width: max-content;
   text-decoration: none;
+  width: max-content;
   list-style: none;
 }
 header nav ul li:nth-child(1){
