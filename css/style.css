@@ -54,16 +54,12 @@ header nav ul li{
 }
 header nav ul li:nth-child(1){
   float: left;
-  text-decoration: none;
-
 }
 header nav ul li:nth-child(2){
   float: right;
-  text-decoration: none;
 }
 header nav ul li:nth-child(3){
   float: right;
-  text-decoration: none;
 }
 
 h1{
