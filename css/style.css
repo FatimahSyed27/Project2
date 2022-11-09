@@ -40,6 +40,8 @@ header nav ul{
     display: block;
     margin: 0 auto;
     width: max-content;
+    text-decoration: none;
+
 }
 header nav ul li{
   margin-bottom: 5px;
@@ -51,12 +53,16 @@ header nav ul li{
 }
 header nav ul li:nth-child(1){
   float: left;
+  text-decoration: none;
+
 }
 header nav ul li:nth-child(2){
   float: right;
+  text-decoration: none;
 }
 header nav ul li:nth-child(3){
   float: right;
+  text-decoration: none;
 }
 
 h1{
@@ -92,6 +98,7 @@ p {
 nav{
   height: 30px;
   margin-top: 10px;
+  text-decoration: none;
 }
 
 section{
