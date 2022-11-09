@@ -65,6 +65,7 @@ h1{
   line-height:2.5em;
   font-weight: bold;
   margin: auto;
+  position: relative;
 }
 
 h2, h3{
